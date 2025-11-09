@@ -2,7 +2,7 @@
 
 Setup instruction.
 
-First rename .env.example to .env
+First rename example.env to .env
 
 ```bash
 # Main setup
@@ -35,5 +35,6 @@ node index.js
 
 # ⚠️ WARNING !
 IF YOU ARE RUNNING THIS ON A PUBLIC SHARED HOSING THEN REMEMBER THAT SOME HOSTING BLOCK SELFBOTS AND IN THAT CASE IT MAY NOT WORK SO USE OTHER HOSTING OR RUN LOCALLY OR RUN IT IN TERMUX.
+
 
 
